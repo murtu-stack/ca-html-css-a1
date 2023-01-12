@@ -96,7 +96,7 @@ body {
   .main_content_box {
     height: auto;
     position: relative;
-    margin: 0px 30px;
+    margin: 0px 45px;
     display: flex;
     flex: 1;
     justify-content: center;
@@ -104,12 +104,12 @@ body {
   }
   
   
-  .poster-img
+
   
   
-  -content{
+  .poster-content{
     text-align: left;
-    margin-right: 35px;
+    margin-bottom: 0px;
   }
   
   .poster-img1 {
@@ -139,7 +139,7 @@ body {
   }
   
   .sub_heading {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "PT Sans", sans-serif;
     font-size: 16px;
     font-weight: 50;
     line-height: 28px;
@@ -152,7 +152,7 @@ body {
     display: inline-block;
     height: 40px;
     padding: 8px 42px;
-    margin-top: 20px;
+    margin-top: 0px;
     font-size: 14px;
     font-weight: 700;
     color: #fff;
